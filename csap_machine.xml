@@ -1,5 +1,4 @@
-<openerp>
-	<data>		
+<odoo>
            
 		<!-- fingerprint MODULE -->
         <record model="ir.actions.act_window" id="fingerprint_machine_action">
@@ -139,5 +138,4 @@
             </field>
         </record>
 
-</data>
-</openerp>
+</odoo>

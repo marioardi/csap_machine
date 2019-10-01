@@ -1,10 +1,10 @@
 import time
 import datetime
 import openerp
-from openerp import SUPERUSER_ID
-from openerp import pooler, tools
-from openerp.osv import osv, fields
-from openerp.tools.translate import _
+from odoo import SUPERUSER_ID
+from odoo import pooler, tools
+from odoo.osv import osv, fields
+from odooo.tools.translate import _
 
 import sys
 import zklib
